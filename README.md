@@ -1,1 +1,3 @@
 # DAILY_TASKS_ELITE
+
+DAY1:Completed✅
